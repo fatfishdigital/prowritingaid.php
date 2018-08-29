@@ -18,7 +18,7 @@ To install the bindings via [Composer](http://getcomposer.org/), add the followi
   "repositories": [
     {
       "type": "git",
-      "url": "https://github.com/prowriting/prowriting.php.git"
+      "url": "https://github.com/prowriting/prowritingaid.php.git"
     }
   ],
   "require": {
